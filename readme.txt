@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Ken
+Author: Ken RO
 Twitter: @UnderwoldSTN
